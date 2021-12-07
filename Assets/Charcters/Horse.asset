@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b22de9276d37a340b4811e32fac391a, type: 3}
+  m_Name: Horse
+  m_EditorClassIdentifier: 
+  _characterSprite: {fileID: 21300000, guid: 7b426fe72edfa9743972ef75e0d16f82, type: 3}
+  _priceCount: 10
+  _characterNumber: 3
